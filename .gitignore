@@ -32,5 +32,9 @@ fp-info-cache
 # Mac OS .DS_Store
 .DS_Store
 
+
 # Backups
-*.zip
+V*/production/backups
+
+# Kicad history
+.history
