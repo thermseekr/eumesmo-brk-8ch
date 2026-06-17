@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 8 Channel RJ45 Breakout Board")
-		(date "2026-06-13")
+		(date "2026-06-17")
 		(rev "V3.1")
 	)
 	(lib_symbols
