@@ -6253,6 +6253,17 @@
 		(layer "F.SilkS")
 		(uuid "603056e0-e342-4679-b6cd-d9e1675f5281")
 	)
+	(gr_rect
+		(start 197 93.25)
+		(end 198.75 103.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fc0ee211-b51b-4915-94e6-64a943e7c27a")
+	)
 	(gr_line
 		(start 199 127)
 		(end 199 129)
@@ -6273,6 +6284,17 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "63dc2ac5-d351-450e-8af7-921817e9af87")
+	)
+	(gr_text "V3.1 2026-06-16"
+		(at 197.875 98.5 90)
+		(layer "F.SilkS")
+		(uuid "fa54c379-e7db-41a5-b931-9ca077dfeb63")
+		(effects
+			(font
+				(size 1 0.7)
+				(thickness 0.1)
+			)
+		)
 	)
 	(gr_text "+24V"
 		(at 107 128 0)
