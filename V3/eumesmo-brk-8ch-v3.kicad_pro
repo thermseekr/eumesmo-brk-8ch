@@ -581,7 +581,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "RJ45-breakout_8ch-V3.net",
-      "plot": "",
+      "plot": "Output/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
