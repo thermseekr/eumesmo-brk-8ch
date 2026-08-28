@@ -6696,7 +6696,7 @@
 			)
 		)
 	)
-	(gr_text "SUPORTES PCI METALTEX SP7\n1x pé macho  9 mm\n1x pé fêmea 9 mm\n1x espaçador 45 mm\n1x espaçador 30 mm\n1x espaçador 10 mm\nComprimento total 103 mm\nLargura da placa 67,8 mm"
+	(gr_text "SUPORTES PCI METALTEX SP7\n1x pé macho  9 mm\n1x pé fêmea 9 mm\n1x espaçador 45 mm\n2x espaçador 20 mm\nComprimento total 103 mm\nLargura da placa 67,8 mm"
 		(at 100 132 0)
 		(layer "Cmts.User")
 		(uuid "00000000-0000-0000-0000-000060513392")
@@ -6750,7 +6750,7 @@
 		(layer "Dwgs.User")
 		(uuid "ad2eb8b6-4fea-4b66-b8f3-efd418cfd45e")
 		(pts
-			(xy 100 62.219592) (xy 204.999999 62.219592)
+			(xy 100 62.219592) (xy 203 62.219592)
 		)
 		(height -4.219592)
 		(orientation 0)
@@ -6770,8 +6770,8 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "105.0000 mm"
-			(at 152.5 56.85 0)
+		(gr_text "103.0000 mm"
+			(at 151.5 56.85 0)
 			(layer "Dwgs.User")
 			(uuid "ad2eb8b6-4fea-4b66-b8f3-efd418cfd45e")
 			(effects
