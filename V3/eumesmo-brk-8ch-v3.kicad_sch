@@ -4729,7 +4729,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "737c78fa-7ef6-4118-8bf0-dfaec34c76d7")
 		(property "Reference" "FID2"
@@ -5135,7 +5135,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bca77ac4-fe79-4de0-8148-35468e323d6f")
 		(property "Reference" "FID1"
@@ -5382,7 +5382,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dc3300ba-1d52-4d6b-b8ed-6de6ae5f7150")
 		(property "Reference" "FID3"
