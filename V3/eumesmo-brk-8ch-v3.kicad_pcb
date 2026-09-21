@@ -269,6 +269,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c795a007-62d0-43ac-a169-7a7f50599ae9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fab8fe1e-def0-40c4-8ca0-0bce69e8c662")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765065"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc8d83f4-b6eb-44a4-b0f1-7b156856525c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bfa2bc2c-4ccd-4a55-8de3-bece7b829563")
 		(sheetname "/")
@@ -495,7 +534,7 @@
 	(footprint "Tales:Eumesmo_medium_silk"
 		(layer "F.Cu")
 		(uuid "181c2b8b-fee1-43ee-96dd-1ee22263eec0")
-		(at 106 77 90)
+		(at 107.5 76.75 90)
 		(descr "Eumesmo logo medium size silkscreen")
 		(property "Reference" "G***"
 			(at 0 0 90)
@@ -993,6 +1032,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72dbe272-20d3-4a04-9ad1-c593b20f8dc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42603500-a3e1-4537-abea-feeedaa9cf25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "682b622e-ac7a-4134-beba-b5b045e872ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006148ec7a")
 		(sheetname "/")
@@ -1427,6 +1505,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ed55dd6-5da1-47b6-98c8-5b3525da5dc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "acf7d9bd-65b4-4fdf-a92d-8de6c6e9205a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765065"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "108bd762-ab5e-492e-a0ca-1d46efafc1e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/480cd648-9263-43e0-962d-3cab77bb0938")
 		(sheetname "/")
@@ -1779,6 +1896,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "072d76eb-6e87-4ad0-8168-4351e3dc03a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "257446aa-4494-4c93-a7c6-69d12749ed1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df292f79-d685-437f-9a3d-f33be5ddd5c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf48b2f9-4694-418b-9d48-4f404c15898d")
 			(effects
 				(font
 					(size 1 1)
@@ -2220,6 +2376,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d186946-4999-408d-9d38-af5eb894374b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b352629-edd3-4a74-97c7-48fb6b945dd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765065"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9b86b0d-ae72-4cbd-8171-2a5aff13f053")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b9517e1d-bdcd-4e26-aea6-b3a4bb47f2cb")
 		(sheetname "/")
@@ -2572,6 +2767,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "229997b7-c014-446a-bb1a-a33672034f17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a4ce247-ed18-42e3-886c-0b7e1f5ca545")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36c2b9dc-756b-4b4c-8d27-ceebd94c399d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f01f6b40-2b13-486c-888a-3b17e212229a")
 			(effects
 				(font
 					(size 1 1)
@@ -3006,6 +3240,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0905c996-89af-4148-855a-da7ae1e310ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b49ea244-9424-472c-91d5-c69f906f5a86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94e0af0b-447c-4be4-a49e-55148ae0d9a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-000061493833")
 		(sheetname "/")
@@ -3426,6 +3699,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2527e88-bf58-40c2-a4f0-ddbe53c408a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2324b428-6452-475f-b0d0-0418ecec3393")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae64cca8-99a1-4e97-b5e9-23dda2e876d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bc91a39-ec7d-4fec-b5ed-b65083bf3c80")
 			(effects
 				(font
 					(size 1 1)
@@ -3867,6 +4179,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2d30d59-3918-4dbe-a28a-a5a83b56c8b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "878a9ba1-575e-400f-9abe-95c610d1c6ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765065"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b2bfd3a-0857-4012-bc1a-c674a3daad1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0a3d2635-84d4-4c54-8ea9-910f429031d9")
 		(sheetname "/")
@@ -4143,6 +4494,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c779d7ca-9211-45bb-a145-eff6b9536ff3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2afbe49d-0c2e-4c50-b4a9-3b88f9abfe06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93364902-86c8-4d55-aa2a-19ab6c854306")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/bca77ac4-fe79-4de0-8148-35468e323d6f")
 		(sheetname "/")
@@ -4247,6 +4637,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ae00b9d-dfbf-4de2-867c-f46d771354fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "854daac9-bca4-4263-a22f-5eb4a56b23b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57574bd2-c665-41ff-b5e8-d7fe7f40ee87")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4435,6 +4864,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eb32d286-6313-4a90-92da-1ca705f36722")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "081645d2-19ac-492c-88f6-66cec6d43807")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa97c8be-21a5-4512-9318-c69c53858e21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17926757-6ca5-4d09-af1c-e288aa6bc83b")
 			(effects
 				(font
 					(size 1 1)
@@ -4869,6 +5337,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cd6c177-651c-4782-9299-f3c5bf4aac18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b29b639-f0a7-4f88-986e-33b89fdd18ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fcabff4-aaec-4672-99f2-f3f6e7bb1f72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006149015e")
 		(sheetname "/")
@@ -5289,6 +5796,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "06712177-f5da-499b-a1f0-53dbe556d022")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,3.609"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "babb640c-7d64-40c6-a183-6185a929580f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34850462-3407-4d05-b699-906deaacb508")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2902702"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e92cbf4-b697-413d-a818-a2cc096ab308")
 			(effects
 				(font
 					(size 1 1)
@@ -5732,6 +6278,45 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96efc5f3-533a-4f2f-bb95-c4d21ddf5e6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "0"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c90dd366-d1dc-496d-9224-4a0cafbb504e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2765061"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc31edf7-b7cf-43cb-af1b-c30b3774dfea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b93fbdd7-9c1c-4a6a-8315-1e0b955daf70")
 		(sheetname "/")
@@ -5960,6 +6545,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90baeb52-d8ae-4785-8c54-18c73b1f7abd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "343028bd-ea0d-4512-a5a5-583512e1c948")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83afe206-0e6d-441f-b9af-f00a0daed44d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6253,17 +6877,6 @@
 		(layer "F.SilkS")
 		(uuid "603056e0-e342-4679-b6cd-d9e1675f5281")
 	)
-	(gr_rect
-		(start 196 93.25)
-		(end 197.75 103.75)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "fc0ee211-b51b-4915-94e6-64a943e7c27a")
-	)
 	(gr_line
 		(start 198 127)
 		(end 198 129)
@@ -6273,6 +6886,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "9e22b050-987b-49f8-ab16-2984bc867e33")
+	)
+	(gr_rect
+		(start 198.875 95)
+		(end 200.625 105.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fc0ee211-b51b-4915-94e6-64a943e7c27a")
 	)
 	(gr_rect
 		(start 100 62.2)
@@ -6286,14 +6910,15 @@
 		(layer "Edge.Cuts")
 		(uuid "63dc2ac5-d351-450e-8af7-921817e9af87")
 	)
-	(gr_text "V3.1 2026-06-17"
-		(at 196.875 98.5 90)
+	(gr_text "V3.1 2026-09-12"
+		(at 199.75 100.25 90)
 		(layer "F.SilkS")
 		(uuid "fa54c379-e7db-41a5-b931-9ca077dfeb63")
 		(effects
 			(font
 				(size 1 0.7)
-				(thickness 0.1)
+				(thickness 0.15)
+				(bold yes)
 			)
 		)
 	)
@@ -6598,7 +7223,7 @@
 		)
 	)
 	(gr_text "CHANNEL 1"
-		(at 107.5 97.5 90)
+		(at 117 108.75 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000618bc27d")
 		(effects
@@ -6609,7 +7234,7 @@
 		)
 	)
 	(gr_text "CHANNEL 2"
-		(at 116.5 75 90)
+		(at 126 86.25 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000618bd1f5")
 		(effects
@@ -6620,7 +7245,7 @@
 		)
 	)
 	(gr_text "CHANNEL 3"
-		(at 130 97.5 90)
+		(at 139.5 108.75 0)
 		(layer "F.SilkS")
 		(uuid "3335d379-08d8-4469-9fa1-495ed5a43fba")
 		(effects
@@ -6631,7 +7256,7 @@
 		)
 	)
 	(gr_text "CHANNEL 4"
-		(at 139 75 90)
+		(at 148.5 86.25 0)
 		(layer "F.SilkS")
 		(uuid "9640e044-e4b2-4c33-9e1c-1d9894a69337")
 		(effects
@@ -6642,7 +7267,7 @@
 		)
 	)
 	(gr_text "CHANNEL 5"
-		(at 152.5 97.5 90)
+		(at 162 108.75 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000618bc282")
 		(effects
@@ -6653,7 +7278,7 @@
 		)
 	)
 	(gr_text "CHANNEL 6"
-		(at 161.5 75 90)
+		(at 171 86.25 0)
 		(layer "F.SilkS")
 		(uuid "fd29cce5-2d5d-4676-956a-df49a3c13d23")
 		(effects
@@ -6664,7 +7289,7 @@
 		)
 	)
 	(gr_text "CHANNEL 7"
-		(at 175 97.5 90)
+		(at 184.5 108.75 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000618bc787")
 		(effects
@@ -6675,7 +7300,7 @@
 		)
 	)
 	(gr_text "CHANNEL 8"
-		(at 184 76 90)
+		(at 193.5 86.25 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000618bc287")
 		(effects
@@ -6686,7 +7311,7 @@
 		)
 	)
 	(gr_text "eumesmo-brk-8ch"
-		(at 201 98 90)
+		(at 196.75 100.25 90)
 		(layer "F.SilkS")
 		(uuid "63cd0c26-352d-4137-80c3-737093ac6b97")
 		(effects
