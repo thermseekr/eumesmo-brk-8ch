@@ -269,7 +269,7 @@
 				)
 			)
 		)
-		(property "FT Position Offset" "0,0"
+		(property "FT Position Offset" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1505,7 +1505,7 @@
 				)
 			)
 		)
-		(property "FT Position Offset" "0,0"
+		(property "FT Position Offset" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2376,7 +2376,7 @@
 				)
 			)
 		)
-		(property "FT Position Offset" "0,0"
+		(property "FT Position Offset" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4179,7 +4179,7 @@
 				)
 			)
 		)
-		(property "FT Position Offset" "0,0"
+		(property "FT Position Offset" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6278,7 +6278,7 @@
 				)
 			)
 		)
-		(property "FT Position Offset" "0,0"
+		(property "FT Position Offset" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
